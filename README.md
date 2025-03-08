@@ -1,5 +1,4 @@
-# eda-swiggy
-Exploratory Data Analysis of restaurants listed on Swiggy in India
+# Exploratory Data Analysis of restaurants listed on Swiggy in India
 
 Exploratory Data Analysis (EDA) is an approach to analyze the data using visual techniques. It is used to discover trends, patterns, or to check assumptions with the help of statistical summary and graphical representations.
 
@@ -34,4 +33,4 @@ Open-ended exploratory analysis and visualization
 Asking and answering interesting questions
 Summarizing inferences and drawing conclusions
 
-check out the jupiter notbook here: https://jovian.com/yatinsammal/eda-swiggy
+check out the jupiter notbook eda-swiggy.ipynb
